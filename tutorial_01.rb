@@ -1,1 +1,1 @@
-prints "Hello Tutorial 01."
+print "Hello Tutorial 01."
